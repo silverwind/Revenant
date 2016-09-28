@@ -20,7 +20,7 @@
     "async": "^1.4.2",
     "bluebird": "^3.0.5",
     "chance": "^0.7.6",
-    "phantom": "^0.8.3",
+    "phantom": "0.8.0",
     "request": "^2.65.0",
     "sift-string": "0.0.2"
   },
